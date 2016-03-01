@@ -1,0 +1,28 @@
+name: ccabman.consulting
+favicon: null
+layout_spectrum: 0.2293663697782904
+typography_spectrum: 0.19466860638931394
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.01984769175760448
+  lightness: 0.5252939471974969
+  saturation: 0.5166534341406077
+  rhythmicContrast: 0.843277060193941
+purpose: []
